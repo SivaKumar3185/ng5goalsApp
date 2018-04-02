@@ -1,0 +1,26 @@
+.container{
+    width: 45%;
+    margin: 1%;
+    padding: 1%;
+    float: left;
+    background: skyblue;
+    border: 1px solid#ccc;
+    border-radius: 4px;
+}
+.sm{
+    background: cornflowerblue;
+    color:#fff;
+    margin-top: 5px;
+}
+.txt{
+    width: 81%;
+}
+.btn{
+    background: rgb(120, 243, 144);
+    color:#fff;
+}
+.sm, .txt, .btn{
+    padding: 10px 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
